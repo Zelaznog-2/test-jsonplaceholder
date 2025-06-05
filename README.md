@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Manager JsonPlaceHolder
 
 ¡Hola! Este `README.md` te guiará a través de la configuración y ejecución de este proyecto.
 
