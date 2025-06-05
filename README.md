@@ -1,0 +1,2 @@
+# test-jsonplaceholder
+manager jsonplaceholder 
